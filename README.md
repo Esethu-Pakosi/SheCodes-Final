@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my work as a front-end developer. It features responsive design, project highlights, and contact information.
 
 ## Live Demo
-Check out the live version of my portfolio here: [Portfolio on Netlify]([https:](https://shecodes-responsive-final.netlify.app/))
+Check out the live version of my portfolio here: [Portfolio on Netlify]([https:](https://shecodes-responsive-final.netlify.app/)
 
 
 ## Features
